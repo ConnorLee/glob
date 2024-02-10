@@ -1,18 +1,3 @@
-# Github Globe
-
-![github-globe made by Zhanar Osmonaliev](https://janarosmonaliev.github.io/github-globe/src/files/github-globe-banner.png)
-
-## Inspiration
-
-This project was inspired by [Github's homepage](https://github.com/home), where they display real-time Github activity on a globe map.
-
-## Implementation
-
-The globe is constructed with [three-globe](https://github.com/vasturiano/three-globe), a ThreeJS data-visualization project made by [@vasturiano](https://github.com/vasturiano). Then, the scene is shaded with a dim ambient light and multiple directional lights to resemble a dreamy space environment. The globe's `MeshPhongMaterial` is also adjusted to fit the environment.
-
-## [Live demo](https://janarosmonaliev.github.io/github-globe/)
-
-All my attended/cancelled flights (2019-2020) are displayed on the globe. If you try to follow one arc, that would be the sequence of my travel destinations. Red arcs are cancelled flights.
 
 ## Documentation
 
